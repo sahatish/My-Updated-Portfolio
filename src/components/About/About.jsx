@@ -73,7 +73,7 @@ const About = () => {
           {/* Action CTA Buttons */}
           <div className="flex flex-wrap gap-4 justify-center lg:justify-start mb-10">
             <a
-              href="https://drive.google.com/file/d/1WYQm1QAFFZR2Z89ErG4WMlbz03fxK76x/view?usp=sharing"
+              href="https://drive.google.com/file/d/1OadatyReH9NZHVDwDO9dTBPxatswg0_x/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center space-x-2 text-white font-bold py-3.5 px-7 rounded-full shadow-[0_0_25px_rgba(130,69,236,0.6)] transition duration-300 transform hover:scale-105"

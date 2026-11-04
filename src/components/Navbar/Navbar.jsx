@@ -111,7 +111,7 @@ const Navbar = () => {
           </a>
 
           <a
-            href="https://drive.google.com/file/d/1WYQm1QAFFZR2Z89ErG4WMlbz03fxK76x/view?usp=sharing"
+            href="https://drive.google.com/file/d/1OadatyReH9NZHVDwDO9dTBPxatswg0_x/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center space-x-1.5 bg-[#8245ec] hover:bg-purple-600 text-white text-xs font-bold px-4 py-2 rounded-xl transition shadow-[0_0_15px_rgba(130,69,236,0.4)]"
@@ -173,7 +173,7 @@ const Navbar = () => {
             </div>
 
             <a
-              href="https://drive.google.com/file/d/1WYQm1QAFFZR2Z89ErG4WMlbz03fxK76x/view?usp=sharing"
+              href="https://drive.google.com/file/d/1OadatyReH9NZHVDwDO9dTBPxatswg0_x/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="text-xs bg-[#8245ec] text-white font-bold px-3 py-1.5 rounded-lg"
