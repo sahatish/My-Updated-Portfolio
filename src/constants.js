@@ -126,7 +126,7 @@ export const experiences = [
     img: VaultsphereLogo,
     role: "Full Stack Developer",
     company: "Vaultsphereai Technologies Pvt Ltd Bangalore",
-    date: "2025 - 6 months",
+    date: "2026 - 6 months",
     desc: "Quiz Application (AssessSphere) - Developed a full-stack quiz application using the MERN stack that enables organizations to conduct secure recruitment assessments with instant evaluation and performance insights. Implemented admin dashboard, quiz management, student tracking, and result analytics.",
     skills: [
       "MongoDB", "Express.js", "React.js", "Node.js", "Tailwind CSS"
